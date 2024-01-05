@@ -1,4 +1,4 @@
-# repo-name-here
+# trade-card-restful
 
  ![alt-text-here](img/trade-cards.png)
 
